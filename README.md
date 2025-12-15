@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- <p align="center">
+- 
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Shanmugapriya%20P&fontSize=40&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20|%20CSBS&descAlignY=55" />
 </p>
 
@@ -38,57 +39,6 @@ Here are some ideas to get you started:
 🚀 TNWISE 2025 Hackathon Participant
 🌱 Currently learning React & Advanced Java
 🎯 Goal: Get placed in a reputed software company
-
-
-## 🧠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,html,css,js,react,python,git,github" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web-Development-blue?style=for-the-badge" />
-</p>
-## 🧩 Projects
-
-### 🛍️ E-Commerce Website – Beauty Products
-✨ Designed a responsive and user-friendly e-commerce website  
-✨ Smooth navigation and interactive UI  
-✨ Focused on front-end design & usability  
-
-**Tech Stack:** `HTML` `CSS` `JavaScript`
-
----
-
-### 📋 To-Do List Web App
-✨ Task add, delete & mark as completed  
-✨ Simple UI with clean functionality  
-
-**Tech Stack:** `HTML` `CSS` `JavaScript`
-
----
-
-### ☕ Java Mini Projects
-✨ Core Java logic implementation  
-✨ Strengthened problem-solving skills  
-
-**Tech Stack:** `Java`
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanmugapriya143&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanmugapriya143&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shanmugapriya143&theme=radical&row=1&column=6" />
-</p>
-
 
 ---
 
