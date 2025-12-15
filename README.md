@@ -56,14 +56,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 🎓 Education
-- **B.Tech – CSBS**  
-  KIT – Kalaignarkarunanidhi Institute of Technology  
-  CGPA: **8.1**
-
-- **12th Grade** – 83%  
-- **10th Grade** – 75%
-
 ---
 
 ## 🧪 Experience & Internships
