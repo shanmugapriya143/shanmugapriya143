@@ -40,72 +40,57 @@ Here are some ideas to get you started:
 🎯 Goal: Get placed in a reputed software company
 
 
-## 🛠️ Tech Stack
-<p>
+## 🧠 Tech Stack
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,html,css,js,react,python,git,github" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web-Development-blue?style=for-the-badge" />
+</p>
+## 🧩 Projects
 
-## 📌 What I'm Working On
-- 📚 Data Structures & Algorithms (Java)
-- 🌐 Web Development Projects
-- 🚀 Improving problem-solving & coding skills
+### 🛍️ E-Commerce Website – Beauty Products
+✨ Designed a responsive and user-friendly e-commerce website  
+✨ Smooth navigation and interactive UI  
+✨ Focused on front-end design & usability  
 
----
-
-## 📂 Projects
-### 🛒 E-Commerce Website (Beauty Products)
-- Responsive and user-friendly website
-- Smooth navigation & interactive UI
-- Focus on front-end design & usability  
-**Tech Stack:** HTML, CSS, JavaScript
+**Tech Stack:** `HTML` `CSS` `JavaScript`
 
 ---
 
----
+### 📋 To-Do List Web App
+✨ Task add, delete & mark as completed  
+✨ Simple UI with clean functionality  
 
-## 🧪 Experience & Internships
-### 💼 Full Stack Development Intern  
-**LearnLogicify Technologies**  
-- Duration: 30 Days (June)
-- Technologies: HTML, CSS, JavaScript
-- Hands-on exposure to front-end & back-end basics
+**Tech Stack:** `HTML` `CSS` `JavaScript`
 
 ---
 
-## 🏆 Certifications
-- Java Foundation – Infosys Springboard  
-- Python Certification – Coursera  
-- HTML & CSS Foundation – Infosys Springboard  
-- Python Foundation – Infosys Springboard  
-- Data Science for Engineers – NPTEL (Score: 56%)  
-- WordPress Website Development – Coursera  
+### ☕ Java Mini Projects
+✨ Core Java logic implementation  
+✨ Strengthened problem-solving skills  
 
----
-
+**Tech Stack:** `Java`
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanmugapriya143&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shanmugapriya143&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanmugapriya143&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanmugapriya143&theme=radical" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shanmugapriya143&theme=radical&row=1&column=6" />
+</p>
+
 
 ---
 
-## 📫 Connect With Me
-<p>
-  <a href="https://linkedin.com/in/shanmugapriya-p-09379331b">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:kit27.csbs53@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
 
----
-
-⭐ *"Learn daily. Code consistently. Trust the process."*
 
