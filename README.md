@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 
-<h1 align="center">Hi 👋 I'm Shanmugapriya P</h1>
+- <h1 align="center">Hi 👋 I'm Shanmugapriya P</h1>
 <h3 align="center">Aspiring Software Engineer | CSBS Student</h3>
 
 <p align="center">
@@ -53,24 +52,30 @@ Here are some ideas to get you started:
 
 <hr/>
 
-## 📂 Projects
+## 🧩 Projects
 
-### 🛒 E-Commerce Website – Beauty Products
-- Designed a **responsive and user-friendly** website
-- Implemented **smooth navigation and interactive UI**
-- Focused on **front-end design, usability & responsiveness**
+### 🛍️ E-Commerce Website – Beauty Products
+✨ Designed a responsive and user-friendly e-commerce website  
+✨ Smooth navigation and interactive UI  
+✨ Focused on front-end design & usability  
 
 **Tech Stack:** `HTML` `CSS` `JavaScript`
 
-<hr/>
+---
 
-## 🎓 Education
-- **B.Tech – Computer Science and Business Systems**  
-  Kalaignarkarunanidhi Institute of Technology  
-  CGPA: **8.1**
+### 📋 To-Do List Web App
+✨ Task add, delete & mark as completed  
+✨ Simple UI with clean functionality  
 
-- **Higher Secondary (12th Grade)** – 83%  
-- **SSLC (10th Grade)** – 75%
+**Tech Stack:** `HTML` `CSS` `JavaScript`
+
+---
+
+### ☕ Java Mini Projects
+✨ Core Java logic implementation  
+✨ Strengthened problem-solving skills  
+
+**Tech Stack:** `Java`
 
 <hr/>
 
@@ -118,6 +123,14 @@ Here are some ideas to get you started:
 <p align="center">
   ⭐ <i>Learn daily. Code consistently. Trust the process.</i> ⭐
 </p>
+
+
+- 
+
+- 
+
+
+
 
 ---
 
