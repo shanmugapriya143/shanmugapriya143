@@ -13,25 +13,32 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><h1 align="center">Hi 👋 I'm Shanmugapriya P</h1>
-<h3 align="center">Aspiring Software Engineer | CSBS Student</h3>
+-->
+- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Shanmugapriya%20P&fontSize=40&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20|%20CSBS&descAlignY=55" />
+</p>
+
+<h3 align="center">🚀 Turning Ideas into Code | Java • DSA • Web Development</h3>
 
 <p align="center">
   <a href="https://github.com/shanmugapriya143">
-    <img src="https://komarev.com/ghpvc/?username=shanmugapriya143&label=Profile%20views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=shanmugapriya143&color=blueviolet&style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/shanmugapriya-p-09379331b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## 🙋‍♀️ About Me
-- 🎓 B.Tech **Computer Science and Business Systems** (CGPA: 8.1)
-- 💻 Interested in **Java, DSA & Web Development**
-- 🌱 Currently learning **React & Advanced Java**
-- 🧠 Hackathon Participant (TNWISE 2025)
-- 🎯 Goal: **Placement in a reputed software company**
+## 🌟 About Me
+```txt
+🎓 B.Tech – Computer Science and Business Systems (CGPA: 8.1)
+💻 Strong in Java, DSA & Web Development
+🚀 TNWISE 2025 Hackathon Participant
+🌱 Currently learning React & Advanced Java
+🎯 Goal: Get placed in a reputed software company
 
----
 
 ## 🛠️ Tech Stack
 <p>
