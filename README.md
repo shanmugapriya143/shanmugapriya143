@@ -1,38 +1,19 @@
-## Hi there 👋
 
-<!--
-**shanmugapriya143/shanmugapriya143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- <h1 align="center">Hi 👋 I'm Shanmugapriya P</h1>
+<h1 align="center">Hi 👋 I'm Shanmugapriya P</h1>
 <h3 align="center">Aspiring Software Engineer | CSBS Student</h3>
 
 <p align="center">
-  <a href="https://github.com/shanmugapriya143">
-    <img src="https://komarev.com/ghpvc/?username=shanmugapriya143&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/shanmugapriya-p-09379331b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=shanmugapriya143&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 <hr/>
 
 ## 🙋‍♀️ About Me
 - 🎓 B.Tech **Computer Science and Business Systems** (CGPA: **8.1**)
-- 💻 Strong interest in **Java, DSA & Web Development**
+- 💻 Interested in **Java, DSA & Web Development**
 - 🌱 Currently learning **React & Advanced Java**
 - 🧠 Hackathon Participant (**TNWISE 2025**)
-- 🎯 Career Goal: **Placement in a reputed software company**
+- 🎯 Goal: **Placement in a reputed software company**
 
 <hr/>
 
@@ -44,57 +25,48 @@ Here are some ideas to get you started:
 <hr/>
 
 ## 📌 What I'm Working On
-- 📚 Data Structures & Algorithms using **Java**
-- 🌐 Building **Web Development Projects**
-- 🚀 Improving **problem-solving and coding skills**
-- 🧠 Preparing for **technical interviews**
+- 📚 Data Structures & Algorithms (Java)
+- 🌐 Web Development Projects
+- 🚀 Improving problem-solving & coding skills
 
 <hr/>
 
-## 🧩 Projects
-
-### 🛍️ E-Commerce Website – Beauty Products
-✨ Designed a responsive and user-friendly e-commerce website  
-✨ Smooth navigation and interactive UI  
-✨ Focused on front-end design & usability  
-
-**Tech Stack:** `HTML` `CSS` `JavaScript`
-
----
-
-### 📋 To-Do List Web App
-✨ Task add, delete & mark as completed  
-✨ Simple UI with clean functionality  
+## 📂 Projects
+### 🛒 E-Commerce Website – Beauty Products
+- Responsive and user-friendly website  
+- Smooth navigation & interactive UI  
+- Focus on front-end design & usability  
 
 **Tech Stack:** `HTML` `CSS` `JavaScript`
 
----
+<hr/>
 
-### ☕ Java Mini Projects
-✨ Core Java logic implementation  
-✨ Strengthened problem-solving skills  
+## 🎓 Education
+- **B.Tech – CSBS**  
+  Kalaignarkarunanidhi Institute of Technology  
+  CGPA: **8.1**
 
-**Tech Stack:** `Java`
+- **12th Grade** – 83%  
+- **10th Grade** – 75%
 
 <hr/>
 
 ## 🧪 Experience & Internships
-
 ### 💼 Full Stack Development Intern  
-**LearnLogicify Technologies**  
-- 🗓 Duration: **30 Days (June)**
-- 🛠 Technologies: **HTML, CSS, JavaScript**
-- 💡 Gained hands-on exposure to **front-end and back-end basics**
+**LearnLogicify Technologies**
+- Duration: 30 Days (June)
+- Technologies: HTML, CSS, JavaScript
+- Hands-on exposure to front-end & back-end basics
 
 <hr/>
 
 ## 🏆 Certifications
-- ✅ Java Foundation – Infosys Springboard  
-- ✅ Python Certification – Coursera  
-- ✅ HTML & CSS Foundation – Infosys Springboard  
-- ✅ Python Foundation – Infosys Springboard  
-- ✅ Data Science for Engineers – NPTEL (Score: 56%)  
-- ✅ WordPress Website Development – Coursera  
+- Java Foundation – Infosys Springboard  
+- Python Certification – Coursera  
+- HTML & CSS Foundation – Infosys Springboard  
+- Python Foundation – Infosys Springboard  
+- Data Science for Engineers – NPTEL (Score: 56%)  
+- WordPress Website Development – Coursera  
 
 <hr/>
 
@@ -120,10 +92,18 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  ⭐ <i>Learn daily. Code consistently. Trust the process.</i> ⭐
+  ⭐ <i>Learn daily. Code consistently. Trust the process.</i>
 </p>
 
 
+
+
+
+
+
+
+
+ 
 
 
 
